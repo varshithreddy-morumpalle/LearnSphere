@@ -1,0 +1,10 @@
+flask
+flask-cors
+google-genai
+chromadb
+pymupdf
+requests
+beautifulsoup4
+scikit-learn
+numpy
+pydantic
